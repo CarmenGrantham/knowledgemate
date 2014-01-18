@@ -1,0 +1,7 @@
+<html title="Knowledge Mate Index"
+      t:sidebarTitle="Framework Version"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+        <p>Welcome to Knowledge Mate</p>
+
+</html>
